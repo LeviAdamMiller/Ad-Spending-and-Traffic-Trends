@@ -9,7 +9,7 @@ The client aimed to better understand the relationship between advertising inves
 ## Key Performance Questions
 - What is the total number of page views?
 - How much was spent on advertising?
-- What was the return on ad spend (ROAS)?
+- How many page views were achieved for each dollar spent on ads?
 - Which days of the week performed better than others?
 - How do holidays impact page views, positively or negatively? 
 - What is the average ROAS over the past year?
