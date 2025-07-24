@@ -1,4 +1,4 @@
-# Ad Spending and Traffic Trends Analysis Dashboard in Tableau
+# Comprehensive Analysis of Ad Spending and Website Traffic
 
 ## Project Objective
 The client aimed to better understand the relationship between advertising investment and website traffic performance. This involved analyzing user engagement trends, highlighting the impact of weekends and holidays, and surfacing opportunities to optimize ad spend for improved traffic outcomes.
@@ -11,7 +11,7 @@ The client aimed to better understand the relationship between advertising inves
 - How much was spent on advertising?
 - What was the return on ad spend (ROAS)?
 - Which days of the week performed better than others?
-- How do holidays impact page views — positively or negatively?
+- How do holidays impact page views, positively or negatively? 
 - What is the average ROAS over the past year?
 
  ## Analysis Process
