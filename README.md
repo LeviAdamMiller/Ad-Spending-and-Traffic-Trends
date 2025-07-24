@@ -13,6 +13,7 @@ The client aimed to better understand the relationship between advertising inves
 - Which days of the week performed better than others?
 - How do holidays impact page views, positively or negatively? 
 - What is the average ROAS over the past year?
+- Dashboard Interaction [View Dashboard](https://public.tableau.com/views/ROASbardashdash2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
  ## Analysis Process
 - Conducted data quality checks to identify and handle missing values or anomalies.
