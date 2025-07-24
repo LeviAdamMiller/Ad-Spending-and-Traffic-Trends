@@ -4,7 +4,7 @@
 The client aimed to better understand the relationship between advertising investment and website traffic performance. This involved analyzing user engagement trends, highlighting the impact of weekends and holidays, and surfacing opportunities to optimize ad spend for improved traffic outcomes.
 
 ## Dataset Used
-(Final Website Stats)[https://github.com/LeviAdamMiller/Ad-Spending-and-Traffic-Trends/blob/main/final_website_stats.xlsx]
+[Final Website Stats](https://github.com/LeviAdamMiller/Ad-Spending-and-Traffic-Trends/blob/main/final_website_stats.xlsx)
 
 ## Key Performance Questions
 - What is the total number of page views?
