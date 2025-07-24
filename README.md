@@ -12,7 +12,7 @@ The client aimed to better understand the relationship between advertising inves
 - How many page views were achieved for each dollar spent on ads?
 - Which days of the week performed better than others?
 - How do holidays impact page views, positively or negatively? 
-- What is the average ROAS over the past year?
+- What has been the yearly average of page views achieved per dollar of ad spend?
 - Dashboard Interaction [View Dashboard](https://public.tableau.com/views/ROASbardashdash2/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
  ## Analysis Process
